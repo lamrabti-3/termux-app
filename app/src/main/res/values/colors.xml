@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="lamrabti_gold">#D4AF37</color>
+    <color name="lamrabti_gold_dark">#A98220</color>
+    <color name="lamrabti_black">#080808</color>
+    <color name="lamrabti_surface">#151515</color>
 </resources>
